@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ItrmsApplication {
 
   public static void main(String[] args) {
+    // Modified in codespace - first code change!
     SpringApplication.run(ItrmsApplication.class, args);
   }
 
